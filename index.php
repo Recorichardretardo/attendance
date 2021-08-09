@@ -47,8 +47,7 @@
         <div class="carousel-container">
           <h2 class="animate__animated animate__fadeInDown">Welcome  <span></span></h2>
           <p class="animate__animated fanimate__adeInUp"></p>
-          <a href="student.php" class="btn-get-started animate__animated animate__fadeInUp scrollto">For Students</a>
-          <a href="login.php" class="btn-get-started animate__animated animate__fadeInUp scrollto">For Faculty</a>
+          <a href="login.php" class="btn-get-started animate__animated animate__fadeInUp scrollto">Login</a>
         </div>
       </div>
     </div>
